@@ -1,0 +1,1 @@
+Using CNN and monte-carlo search tree to write a program that can play tic-tac-toe and ultimate tic tac toe (as per the rules on https://bejofo.net/ttt)
